@@ -201,7 +201,7 @@ p {
 .toggle-text {
   position: relative;
   top: -4px;
-  right: 5px;
+  left: 2px;
   color: var(--on-background);
 }
 
